@@ -9,7 +9,7 @@ eslint と prettier をコミット時に強制する
 ### husky のインストール
 
 ```bash
-npm in -D husky
+npm i -D husky
 ```
 
 ### husky の初期化
